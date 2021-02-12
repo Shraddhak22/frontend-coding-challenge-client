@@ -1,0 +1,5 @@
+
+.statusContainer .dropdown-toggle::after{
+  display: none
+}
+
